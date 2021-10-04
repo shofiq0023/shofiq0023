@@ -38,7 +38,6 @@
 
 <h3>Tools & Others: </h3>
 <p>
-<img src="" height="40" width="40">
 <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" height="40" width="40">
 <img src="https://cdn.worldvectorlogo.com/logos/npm.svg" height="40" width="40">
 <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" height="40" width="40">
