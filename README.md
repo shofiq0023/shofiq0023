@@ -48,3 +48,5 @@
 <img src="https://cdn.worldvectorlogo.com/logos/after-effects-cc.svg" height="40" width="40">
 <img src="https://cdn.worldvectorlogo.com/logos/blender-2.svg" height="40" width="40">
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shofiq0023&layout=compact)](https://github.com/shofiq0023/github-readme-stats)
