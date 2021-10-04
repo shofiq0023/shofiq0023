@@ -19,7 +19,6 @@
 
 <h3>Languages: </h3>
 <p>
-<p>
 <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" height="40" width="40">
 <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" height="40" width="40">
 <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" height="40" width="40">
@@ -31,5 +30,4 @@
 <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" height="40" width="40">
 <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" height="40" width="40">
 <img src="https://cdn.worldvectorlogo.com/logos/php.svg" height="40" width="40">
-</p>
 </p>
