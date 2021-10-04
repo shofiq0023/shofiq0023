@@ -27,10 +27,25 @@
 <img src="https://cdn.worldvectorlogo.com/logos/java.svg" height="40" width="40">
 <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" height="40" width="40">
 <img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" height="40" width="40">
-<img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" height="40" width="40">
+<img src="https://cdn.worldvectorlogo.com/logos/php.svg" height="40" width="40">
 <img src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg" height="40" width="40">
 <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" height="40" width="40">
 <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" height="40" width="40">
 <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" height="40" width="40">
 <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" height="40" width="40">
+</p>
+
+
+<h3>Tools & Others: </h3>
+<p>
+<img src="" height="40" width="40">
+<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" height="40" width="40">
+<img src="https://cdn.worldvectorlogo.com/logos/npm.svg" height="40" width="40">
+<img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" height="40" width="40">
+<img src="https://cdn.worldvectorlogo.com/logos/heroku-4.svg" height="40" width="40">
+<img src="https://cdn.worldvectorlogo.com/logos/chrome.svg" height="40" width="40">
+<img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-cs6.svg" height="40" width="40">
+<img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cs6.svg" height="40" width="40">
+<img src="https://cdn.worldvectorlogo.com/logos/after-effects-cc.svg" height="40" width="40">
+<img src="https://cdn.worldvectorlogo.com/logos/blender-2.svg" height="40" width="40">
 </p>
