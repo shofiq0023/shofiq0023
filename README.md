@@ -11,4 +11,4 @@
 - 👨‍💻 Here is my portfolio https://shofiqul-portfolio.netlify.app/
 
 <h3>Connect With me</h3>
-- <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" height="20" width="20">
+- <p><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" height="20" width="20"></p>
