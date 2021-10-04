@@ -39,7 +39,7 @@
 <h3>Tools & Others: </h3>
 <p>
 <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" height="40" width="40">
-<img src="https://cdn.worldvectorlogo.com/logos/npm.svg" height="40" width="40">
+<img src="https://cdn.worldvectorlogo.com/logos/npm-square-red-1.svg" height="40" width="40">
 <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" height="40" width="40">
 <img src="https://cdn.worldvectorlogo.com/logos/heroku-4.svg" height="40" width="40">
 <img src="https://cdn.worldvectorlogo.com/logos/chrome.svg" height="40" width="40">
@@ -49,4 +49,4 @@
 <img src="https://cdn.worldvectorlogo.com/logos/blender-2.svg" height="40" width="40">
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shofiq0023&layout=compact)](https://github.com/shofiq0023/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shofiq0023&layout=compact)](https://github.com/shofiq0023/)
