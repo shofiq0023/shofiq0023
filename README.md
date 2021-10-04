@@ -28,8 +28,8 @@
 <img src="https://cdn.worldvectorlogo.com/logos/java.svg" height="40" width="40">
 <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" height="40" width="40">
 <img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" height="40" width="40">
-<img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" height="40" width="40">
 <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" height="40" width="40">
 <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" height="40" width="40">
+<img src="https://cdn.worldvectorlogo.com/logos/php.svg" height="40" width="40">
 </p>
 </p>
