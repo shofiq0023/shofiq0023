@@ -33,7 +33,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" height="40" width="40">
 <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" height="40" width="40">
 <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" height="40" width="40">
-<img src="https://cdn.worldvectorlogo.com/logos/jquery-1.svg" height="40" width="40">
+<img src="https://cdn.worldvectorlogo.com/logos/jquery.svg" height="40" width="40">
 </p>
 
 
@@ -51,5 +51,5 @@
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shofiq0023)](https://github.com/shofiq0023/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shofiq0023&layout=compact)](https://github.com/shofiq0023/github-readme-stats)
 
