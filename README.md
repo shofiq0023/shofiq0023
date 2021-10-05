@@ -51,4 +51,5 @@
 </p>
 
 
-[(https://github-readme-stats.vercel.app/api/top-langs/?username=shofiq0023&layout=compact&theme=onedark)](https://github.com/shofiq0023/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shofiq0023)](https://github.com/shofiq0023/github-readme-stats)
+
