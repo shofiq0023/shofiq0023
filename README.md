@@ -19,10 +19,10 @@
 
 <h3>Languages: </h3>
 <p>
-<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" height="40" width="40">
-<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" height="40" width="40">
-<img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" height="40" width="40">
-<img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" height="40" width="40">
+<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" height="40" width="40"> HTML
+<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" height="40" width="40"> CSS
+<img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" height="40" width="40"> Bootstrap
+<img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" height="40" width="40"> Tailwind CSS
 <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" height="40" width="40">
 <img src="https://cdn.worldvectorlogo.com/logos/java.svg" height="40" width="40">
 <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" height="40" width="40">
