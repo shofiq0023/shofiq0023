@@ -17,7 +17,7 @@
 <p><img src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" height="20" width="20"> https://twitter.com/shofiqul0023</p>
 
 
-<h3>Languages: </h3>
+<h3>Languages, Frameworks, Libraries and Database: </h3>
 <p>
 <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" height="40" width="40">
 <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" height="40" width="40">
