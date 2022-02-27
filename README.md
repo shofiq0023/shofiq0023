@@ -43,7 +43,7 @@
 <p>
 <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" height="40" width="40">
 <img src="https://cdn.worldvectorlogo.com/logos/npm-square-red-1.svg" height="40" width="40">
-<img src="https://cdn.worldvectorlogo.com/logos/apache-13.svg" height="40" width="40">
+<img src="https://www.svgrepo.com/show/354051/maven.svg" height="40" width="40">
 <img src="https://cdn.worldvectorlogo.com/logos/json.svg" height="40" width="40">
 <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" height="40" width="40">
 <img src="https://cdn.worldvectorlogo.com/logos/heroku-4.svg" height="40" width="40">
