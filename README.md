@@ -31,6 +31,8 @@
 <img src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg" height="40" width="40">
 <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" height="40" width="40">
 <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" height="40" width="40">
+<img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" height="40" width="40">
+<img src="https://cdn.worldvectorlogo.com/logos/c.svg" height="40" width="40">
 <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" height="40" width="40">
 <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" height="40" width="40">
 <img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" height="40" width="40">
@@ -41,6 +43,8 @@
 <p>
 <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" height="40" width="40">
 <img src="https://cdn.worldvectorlogo.com/logos/npm-square-red-1.svg" height="40" width="40">
+<img src="https://cdn.worldvectorlogo.com/logos/apache-13.svg" height="40" width="40">
+<img src="https://cdn.worldvectorlogo.com/logos/json.svg" height="40" width="40">
 <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" height="40" width="40">
 <img src="https://cdn.worldvectorlogo.com/logos/heroku-4.svg" height="40" width="40">
 <img src="https://cdn.worldvectorlogo.com/logos/chrome.svg" height="40" width="40">
