@@ -4,7 +4,7 @@
 <h3><a href="https://drive.google.com/uc?export=download&amp;id=1kn7Qfa6d35iPzyAOc2eoBVsxXXvbygT3">Download my resume</a></h3>
 <p><img src="https://github-profile-trophy.vercel.app/?username=shofiq0023&theme=onedark"></p>
 
-- 💬 Ask me about Java, JavaScript, React.js
+- 💬 Ask me about Java, JavaScript, Angular
 
 - 📫 How to reach me: shofiqulislam0023@gmail.com
 
