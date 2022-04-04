@@ -2,11 +2,7 @@
 
 ## Self learning Java, JavaScript developer
 
-<br />
-
 ### [Download My Resume 📖](https://drive.google.com/uc?export=download&id=1kn7Qfa6d35iPzyAOc2eoBVsxXXvbygT3)
-
-<br />
 
 <p><img src="https://github-profile-trophy.vercel.app/?username=shofiq0023&theme=onedark"></p>
 
@@ -16,16 +12,12 @@
 
 -   👨‍💻 Here is my portfolio https://shofiqul-portfolio.netlify.app/
 
-<br />
-
 ### Connect With Me
 
 [![](https://img.shields.io/badge/Linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shofiqul-islam-0023/) &nbsp;
 [![](https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/shofiqul0023/) &nbsp;
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shofiqul0023</) &nbsp;
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/atrix0023)
-
-<br />
 
 ### MY SKILLS:
 
@@ -93,5 +85,7 @@
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) &nbsp;
 ![Unreal Engine](https://img.shields.io/badge/unreal_engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) &nbsp;
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+
+<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shofiq0023&layout=compact)](https://github.com/shofiq0023/github-readme-stats)
