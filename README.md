@@ -1,12 +1,12 @@
 # Hi, I am Shofiqul Islam 👋
 
-## Self learning Java, JavaScript developer
+## Java Developer
 
 ### [Download My Resume 📖](https://drive.google.com/uc?export=download&id=1kn7Qfa6d35iPzyAOc2eoBVsxXXvbygT3)
 
 <p><img src="https://github-profile-trophy.vercel.app/?username=shofiq0023&theme=onedark"></p>
 
--   💬 Ask me about Java, JavaScript, Angular
+-   💬 Ask me about Java, JavaScript, SQL
 
 -   📫 How to reach me: shofiqulislam0023@gmail.com
 
@@ -15,8 +15,6 @@
 ### Connect With Me
 
 [![](https://img.shields.io/badge/Linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shofiqul-islam-0023/) &nbsp;
-[![](https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/shofiqul0023/) &nbsp;
-[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shofiqul0023</) &nbsp;
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/atrix0023)
 
 ### MY SKILLS:
@@ -27,21 +25,19 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F1F1F1?style=for-the-badge&logo=springboot&logoColor=236DB33F) &nbsp;
 ![JavaScript](https://img.shields.io/badge/Javascript-%23323330?style=for-the-badge&logo=javascript&logoColor=23F7DF1E) &nbsp;
 ![Angular](https://img.shields.io/badge/angular-%23DD0031?style=for-the-badge&logo=angular&logoColor=white) &nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) &nbsp;
+
 
 #### - **Other languages:**
 
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white) &nbsp;
-![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white) &nbsp;
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) &nbsp;
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) &nbsp;
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 #### - **Databases:**
 
-![PostgresQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) &nbsp;
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) &nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) &nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) &nbsp;
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 #### - Tools & Others:
