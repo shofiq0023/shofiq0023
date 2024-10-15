@@ -7,6 +7,7 @@
 </h2>
 
 
+
 -   ❤️ Always love learning new things.
 -   💬 Ask me about: **Java**, **JavaScript**, **SQL**.
 -   🎮 Enthusiastic about **Video game development**.
@@ -61,23 +62,15 @@
 ### **- Github Stats:**
 
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<!-- <div style="display: flex; justify-content: center; align-items: center;">
     <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=shofiq0023&layout=compact&hide=shaderlab&theme=aura_dark" alt="Top Languages">
     <img height=200 src="https://github-readme-stats.vercel.app/api?username=shofiq0023&show_icons=true&hide=issues&theme=aura_dark" alt="Github Stats">
-</div>
+</div> -->
 
-<style>
-    .d-flex {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    }
-</style>
 
-<section data-markdown>
-    <div class="d-flex"><!-- .element: style="display: flex; flex-direction: row;" -->
-      <div>Item 1</div> <!-- .element: style="margin: 10px; padding: 20px;"-->
-      <div>Item 2</div> <!-- .element: style="margin: 10px; padding: 20px;"-->
-      <div>Item 3</div> <!-- .element: style="margin: 10px; padding: 20px;"-->
-    </div>
-</section>
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=shofiq0023&show_icons=true&hide=issues&theme=aura_dark" alt="Github Stats"/>
+<a href="#">
+  <img height=200 align="center" rc="https://github-readme-stats.vercel.app/api/top-langs/?username=shofiq0023&layout=compact&hide=shaderlab&theme=aura_dark" alt="Top Languages"/>
+</a>
+</a>
