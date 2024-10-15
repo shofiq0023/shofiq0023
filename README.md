@@ -59,9 +59,9 @@
 <hr/>
 
 <!-- #### - **Github Stats:** -->
-<h4 style="text-align: center;"><b>Github Stats</b></h4>
+<h3 style="text-align: center;"><b>Github Stats</b></h3>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex; justify-content: center; align-items: center;">
     <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=shofiq0023&layout=compact&hide=shaderlab&theme=aura_dark" alt="Top Languages">
     <img height=200 src="https://github-readme-stats.vercel.app/api?username=shofiq0023&show_icons=true&hide=issues&theme=aura_dark" alt="Github Stats">
 </div>
