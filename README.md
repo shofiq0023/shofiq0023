@@ -65,3 +65,14 @@
     <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=shofiq0023&layout=compact&hide=shaderlab&theme=aura_dark" alt="Top Languages">
     <img height=200 src="https://github-readme-stats.vercel.app/api?username=shofiq0023&show_icons=true&hide=issues&theme=aura_dark" alt="Github Stats">
 </div>
+
+<section data-markdown>
+  <textarea data-template>
+    # Testing 
+    <div class="flex-container"><!-- .element: style="display: flex; flex-direction: row;" -->
+      <div>Item 1</div> <!-- .element: style="margin: 10px; padding: 20px;"-->
+      <div>Item 2</div> <!-- .element: style="margin: 10px; padding: 20px;"-->
+      <div>Item 3</div> <!-- .element: style="margin: 10px; padding: 20px;"-->
+    </div>
+  </textarea>
+</section>
