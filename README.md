@@ -63,7 +63,7 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
     <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=shofiq0023&layout=compact&hide=shaderlab&theme=aura_dark" alt="Top Languages">
-    <img height=200 width=600 align=center src="https://github-readme-stats.vercel.app/api?username=shofiq0023&show_icons=true&hide=issues&theme=aura_dark" alt="Github Stats">
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=shofiq0023&show_icons=true&hide=issues&theme=aura_dark" alt="Github Stats">
 </div>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shofiq0023&layout=compact)](https://github.com/shofiq0023/github-readme-stats) -->
