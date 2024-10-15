@@ -66,13 +66,18 @@
     <img height=200 src="https://github-readme-stats.vercel.app/api?username=shofiq0023&show_icons=true&hide=issues&theme=aura_dark" alt="Github Stats">
 </div>
 
+<style>
+    .d-flex {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+</style>
+
 <section data-markdown>
-  <textarea data-template>
-    # Testing 
-    <div class="flex-container"><!-- .element: style="display: flex; flex-direction: row;" -->
+    <div class="d-flex"><!-- .element: style="display: flex; flex-direction: row;" -->
       <div>Item 1</div> <!-- .element: style="margin: 10px; padding: 20px;"-->
       <div>Item 2</div> <!-- .element: style="margin: 10px; padding: 20px;"-->
       <div>Item 3</div> <!-- .element: style="margin: 10px; padding: 20px;"-->
     </div>
-  </textarea>
 </section>
