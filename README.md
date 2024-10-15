@@ -62,8 +62,8 @@
 <h4 style="text-align: center;"><b>Github Stats</b></h4>
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shofiq0023&layout=compact" alt="Top Languages">
-    <img src="https://github-readme-stats.vercel.app/api?username=shofiq0023&show_icons=true&theme=aura_dark" alt="Github Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shofiq0023&layout=compact&hide=shaderlab&theme=aura_dark" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api?username=shofiq0023&show_icons=true&hide=issues&theme=aura_dark" alt="Github Stats">
 </div>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shofiq0023&layout=compact)](https://github.com/shofiq0023/github-readme-stats) -->
