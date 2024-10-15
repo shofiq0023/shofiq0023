@@ -16,7 +16,7 @@
 
 ### MY SKILLS:
 
-#### - **Top Programming languages and Framework:**
+#### **- Top Programming languages and Framework:**
 
 ![Java](https://img.shields.io/badge/java-ED272C.svg?style=for-the-badge&logo=openjdk&logoColor=white) &nbsp;
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F1F1F1?style=for-the-badge&logo=springboot&logoColor=236DB33F) &nbsp;
@@ -24,7 +24,7 @@
 ![Angular](https://img.shields.io/badge/angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) &nbsp;
 
 
-#### - **Other languages and Frameworks:**
+#### **- Other languages and Frameworks:**
 
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white) &nbsp;
 ![C](https://img.shields.io/badge/c-00599C.svg?style=for-the-badge&logo=c&logoColor=white) &nbsp;
@@ -34,28 +34,20 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=fff)
 
 
-#### - **Databases:**
+#### **- Databases:**
 
 ![PostgreSQL](https://img.shields.io/badge/postgres-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) &nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-00f.svg?style=for-the-badge&logo=mysql&logoColor=white) &nbsp;
 ![Redis](https://img.shields.io/badge/redis-DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 
-#### - **Game engines:**
+#### **- Game engines:**
 
 ![Godot Game Engine](https://img.shields.io/badge/godot-53A4E0.svg?style=for-the-badge&logo=godotEngine&logoColor=white) &nbsp;
 ![Unity Engine](https://img.shields.io/badge/unity-000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 
-### - **Github Stats:**
-
-
-<div style="display: flex; justify-content: center; align-items: center;">
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=shofiq0023&layout=compact&hide=shaderlab&theme=aura_dark" alt="Top Languages">
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=shofiq0023&show_icons=true&hide=issues&theme=aura_dark" alt="Github Stats">
-</div>
-
-#### - **Tools & Others:**
+#### **- Tools & Others:**
 
 ![NPM](https://img.shields.io/badge/NPM-C53635.svg?style=for-the-badge&logo=npm&logoColor=white) &nbsp;
 ![Apache Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) &nbsp;
@@ -64,3 +56,12 @@
 ![Netlify](https://img.shields.io/badge/netlify-000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) &nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) &nbsp;
 ![Firebase](https://img.shields.io/badge/firebase-1F1F1F?style=for-the-badge&logo=Firebase&logoColor=FFC608)
+
+
+### **- Github Stats:**
+
+
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=shofiq0023&layout=compact&hide=shaderlab&theme=aura_dark" alt="Top Languages">
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=shofiq0023&show_icons=true&hide=issues&theme=aura_dark" alt="Github Stats">
+</div>
