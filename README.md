@@ -1,9 +1,9 @@
 # Hi, I am Shofiqul Islam 👋
 
 
-<h2 style="display: flex; justify-content: space-between; align-items: center;">
-    <span>Java Developer, Tech enthusiast</span>
-    <a href="https://drive.google.com/uc?export=download&id=1kn7Qfa6d35iPzyAOc2eoBVsxXXvbygT3">📖 Download My Resume</a>
+<h2>
+    <span>Java Developer, Tech enthusiast</span><br/>
+    <a style="font-size: 16px;" href="https://drive.google.com/uc?export=download&id=1kn7Qfa6d35iPzyAOc2eoBVsxXXvbygT3">📖 Download My Resume</a>
 </h2>
 
 
