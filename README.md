@@ -2,8 +2,7 @@
 
 
 <h2>
-    <span>Java Developer, Tech enthusiast</span>(
-    <a style="font-size: 16px;" href="https://drive.google.com/uc?export=download&id=1kn7Qfa6d35iPzyAOc2eoBVsxXXvbygT3">📖 Download My Resume</a>)
+    <span>Java Developer, Tech enthusiast</span>(<a style="font-size: 16px;" href="https://drive.google.com/uc?export=download&id=1kn7Qfa6d35iPzyAOc2eoBVsxXXvbygT3">📖 Download My Resume</a>)
 </h2>
 
 
