@@ -24,12 +24,14 @@
 ![Angular](https://img.shields.io/badge/angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) &nbsp;
 
 
-#### - **Other languages:**
+#### - **Other languages and Frameworks:**
 
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white) &nbsp;
 ![C](https://img.shields.io/badge/c-00599C.svg?style=for-the-badge&logo=c&logoColor=white) &nbsp;
 ![C++](https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) &nbsp;
-![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) &nbsp;
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) &nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=fff)
 
 
 #### - **Databases:**
@@ -55,11 +57,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) &nbsp;
 ![Firebase](https://img.shields.io/badge/firebase-1F1F1F?style=for-the-badge&logo=Firebase&logoColor=FFC608)
 
-<br/>
-<hr/>
 
-<!-- #### - **Github Stats:** -->
-<h3 style="text-align: center;"><b>Github Stats</b></h3>
+#### - **Github Stats:**
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=shofiq0023&layout=compact&hide=shaderlab&theme=aura_dark" alt="Top Languages">
