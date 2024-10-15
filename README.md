@@ -75,7 +75,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shofiq0023&layout=compact&hide=shaderlab&theme=aura_dark&card_width=320" alt="Top Languages"/>
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="#">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=shofiq0023&show_icons=true&theme=aura_dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
