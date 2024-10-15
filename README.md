@@ -47,6 +47,14 @@
 ![Unity Engine](https://img.shields.io/badge/unity-000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 
+### - **Github Stats:**
+
+
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=shofiq0023&layout=compact&hide=shaderlab&theme=aura_dark" alt="Top Languages">
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=shofiq0023&show_icons=true&hide=issues&theme=aura_dark" alt="Github Stats">
+</div>
+
 #### - **Tools & Others:**
 
 ![NPM](https://img.shields.io/badge/NPM-C53635.svg?style=for-the-badge&logo=npm&logoColor=white) &nbsp;
@@ -56,14 +64,3 @@
 ![Netlify](https://img.shields.io/badge/netlify-000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) &nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) &nbsp;
 ![Firebase](https://img.shields.io/badge/firebase-1F1F1F?style=for-the-badge&logo=Firebase&logoColor=FFC608)
-
-
-### - **Github Stats:**
-
-
-<div style="display: flex; justify-content: center; align-items: center;">
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=shofiq0023&layout=compact&hide=shaderlab&theme=aura_dark" alt="Top Languages">
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=shofiq0023&show_icons=true&hide=issues&theme=aura_dark" alt="Github Stats">
-</div>
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shofiq0023&layout=compact)](https://github.com/shofiq0023/github-readme-stats) -->
