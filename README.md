@@ -62,7 +62,7 @@
 ### **- Github Stats:**
 
 <a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shofiq0023&layout=compact&langs_count=8&card_width=320&hide=shaderlab&theme=aura_dark" alt="top langs" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shofiq0023&layout=compact&langs_count=8&card_width=320&hide=shaderlab,CMake,HLSL&theme=aura_dark" alt="top langs" />
 </a>
 <a href="#">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=shofiq0023&show_icons=true&theme=aura_dark" alt="github stats"/>
