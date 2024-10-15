@@ -58,7 +58,8 @@
 ![Firebase](https://img.shields.io/badge/firebase-1F1F1F?style=for-the-badge&logo=Firebase&logoColor=FFC608)
 
 
-#### - **Github Stats:**
+### - **Github Stats:**
+
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=shofiq0023&layout=compact&hide=shaderlab&theme=aura_dark" alt="Top Languages">
