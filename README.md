@@ -1,5 +1,4 @@
 # Hi, I am Shofiqul Islam 👋
-![](https://komarev.com/ghpvc/?username=shofiq0023&color=red)
 
 <h2>
     <span>Java Developer, Tech enthusiast</span> (<a href="https://drive.google.com/uc?export=download&id=1kn7Qfa6d35iPzyAOc2eoBVsxXXvbygT3">📖 Download My Resume</a>)
